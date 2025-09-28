@@ -1,0 +1,43 @@
+# Scan results and outputs
+*.log
+*.txt
+*.json
+scan_*
+output/
+reports/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Sensitive data
+*.key
+*.pem
+*.cert
+*.env
+secrets.txt
+config.ini
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
