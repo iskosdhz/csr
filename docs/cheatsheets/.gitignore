@@ -1,0 +1,24 @@
+# Scan results
+*.txt
+*.log
+scan_*
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+__pycache__/
+*.pyc
+
+# Sensitive data
+config.ini
+secrets.txt
+api_keys.txt
+
+# System files
+.DS_Store
+Thumbs.db
